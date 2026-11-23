@@ -1,2 +1,2 @@
 # kod-_asistan
-Projenin Yazarı Görk
+Projenin YazarI:Kartoncu Berkay
